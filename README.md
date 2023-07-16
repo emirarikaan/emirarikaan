@@ -15,5 +15,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emirarikaan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://komarev.com/ghpvc/?username=your-github-emirarikaan)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
